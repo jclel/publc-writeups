@@ -6,7 +6,7 @@ It's NoSQL injection time. I'm stoked for it: I'm terrible when it comes to NoSQ
 
 But non-relational databases, where data is stored in big collections of documents that aren't quite as structured, can have performance gains. On the level of Big Data, those gains are essential. So non-relational databases are now a critical piece of the infrastructure of modern life. Which  means securing them is just as important.  
 
-SQL is a popular language used for querying relational databases. NoSQL refers to everything else (Not only SQL.) SQL injection typically refers to impacting relational databases. NoSQL injection typically refers to doing the same for non-relational databases. Today, we're learning how to use NoSQL to ruin some non-relational database admin's day.  
+SQL is a popular language used for querying relational databases. NoSQL refers to everything else (NoSQL i.e. "Not only SQL".) SQL injection typically refers to impacting relational databases. NoSQL injection typically refers to doing the same for non-relational databases. Today, we're learning how to use NoSQL to ruin some non-relational database admin's day.  
 
 First let's SSH into today's machine with the credentials they give us: thm:tryhackme
 

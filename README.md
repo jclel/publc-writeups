@@ -10,6 +10,6 @@ A list of my writeups for TryHackMe's third annual Advent of Cyber series.
 [Day 2: Cookies](aoc3/day2/day2.md)\
 [Day 3: Fuzzing and Authentication Bypass](aoc3/day3/day3.md)\
 [Day 4: Brute Forcing](aoc3/day4/day4.md)\
-[Day 5: Cross-Site Scripting](aoc3/day5/day5.md)  
-[Day 6: Local File Inclusion](aoc3/day6/day6.md)  
-[Day 7: NoSQL Injection](aoc3/day7/day7.md)  
+[Day 5: Cross-Site Scripting](aoc3/day5/day5.md)\
+[Day 6: Local File Inclusion](readme/day-6.md)\
+[Day 7: NoSQL Injection](aoc3/day7/day7.md)

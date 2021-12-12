@@ -12,3 +12,4 @@
   * [Day 9](aoc3/day9/day9.md)
   * [Day 10](aoc3/day10/day10.md)
   * [Day 11](aoc3/day11/day11.md)
+  * [Day 12](aoc3/day12/day12.md)

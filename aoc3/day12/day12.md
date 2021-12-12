@@ -22,7 +22,7 @@ Looks like 7 to me.
 
 ![](nmapnfs.png)
 
-We can see from the scan that port 2048 is the 'mountd' port, but nmap also lists what's being mapped to that port via the port 111 service. Often you might see "rpcbind", "mountd" and "status" which are of limited use to us, but when we see "nfs" in that right hand column, it means shares.  
+We can see from the scan that port 2049 is the 'mountd' port, but nmap also lists what's being mapped to that port via the port 111 service. Often you might see "rpcbind", "mountd" and "status" which are of limited use to us, but when we see "nfs" in that right hand column, it means shares.  
 
 Once we've found NFS running, we can enumerate the shares available with:
 

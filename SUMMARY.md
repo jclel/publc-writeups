@@ -13,3 +13,4 @@
   * [Day 10](readme/day10.md)
   * [Day 11](readme/day11.md)
   * [Day 12](aoc3/day12/day12.md)
+  * [Day 13](aoc3/day13/day13.md)

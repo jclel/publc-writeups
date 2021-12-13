@@ -17,5 +17,5 @@ A list of my writeups for TryHackMe's third annual Advent of Cyber series.
 [Day 9: Wireshark](readme/day9.md)\
 [Day 10: Nmap](readme/day10.md)\
 [Day 11: Microsoft SQL Server](readme/day11.md)\
-[Day 12: NFS](aoc3/day12/day12.md)
-[Day 13: Windows Privilege Escalation](aoc3/day13/day13.md)
+[Day 12: NFS](aoc3/day12/day12.md)  
+[Day 13: Windows Privilege Escalation](aoc3/day13/day13.md)  

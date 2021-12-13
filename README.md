@@ -4,7 +4,7 @@ A list of my writeups for TryHackMe's third annual Advent of Cyber series.
 
 [Advent of Cyber 3 on TryHackMe](https://tryhackme.com/room/adventofcyber3)
 
-[Blog](http://jakec) / [Twitter](https://twitter.com/jakeclelandVEVO)
+[Blog](http://jakec.net) / [Twitter](https://twitter.com/jakeclelandVEVO)
 
 [Day 1: IDOR](readme/day1.md)\
 [Day 2: Cookies](readme/day2.md)\
@@ -18,3 +18,4 @@ A list of my writeups for TryHackMe's third annual Advent of Cyber series.
 [Day 10: Nmap](readme/day10.md)\
 [Day 11: Microsoft SQL Server](readme/day11.md)\
 [Day 12: NFS](aoc3/day12/day12.md)
+[Day 13: Windows Privilege Escalation](aoc3/day13/day13.md)

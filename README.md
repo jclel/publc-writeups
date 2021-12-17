@@ -19,3 +19,6 @@ A list of my writeups for TryHackMe's third annual Advent of Cyber series.
 [Day 11: Microsoft SQL Server](readme/day11.md)\
 [Day 12: NFS](aoc3/day12/day12.md)  
 [Day 13: Windows Privilege Escalation](aoc3/day13/day13.md)  
+[Day 14: DevOps](aoc3/day14/day14.md)  
+[Day 16: OSINT](aoc3/day16/day16.md)  
+[Day 17: The Cloud](aoc3/day17/day17.md)  

@@ -17,3 +17,5 @@
   * [Day 14](aoc3/day14/day14.md)
   * [Day 16](aoc3/day16/day16.md)
   * [Day 17](aoc3/day17/day17.md)
+  * [Day 18](aoc3/day18/day18.md)
+  * [Day 19](aoc3/day19/day19.md)

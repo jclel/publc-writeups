@@ -24,3 +24,4 @@ A list of my writeups for TryHackMe's third annual Advent of Cyber series.
 [Day 17: The Cloud](aoc3/day17/day17.md)  
 [Day 18: Docker](aoc3/day18/day18.md)  
 [Day 19: Email Forensics](aoc3/day19/day19.md)  
+[Day 20: File Analysis](aoc3/day20/day20.md)  

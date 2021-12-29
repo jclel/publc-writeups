@@ -26,3 +26,6 @@ A list of my writeups for TryHackMe's third annual Advent of Cyber series.
 [Day 19: Email Forensics](aoc3/day19/day19.md)  
 [Day 20: File Analysis](aoc3/day20/day20.md)  
 [Day 21: YARA Rules](aoc3/day21/day21.md)  
+[Day 22: Oledump](aoc3/day22/day22.md)  
+[Day 23: PowerShell Redux](aoc3/day23/day23.md)  
+[Day 24: NTLM Cracking](aoc3/day24/day24.md)  
